@@ -1,15 +1,32 @@
-# My Personal Portfolio Website
+# Mahmut's Portfolio Website
 
-This is my personal portfolio website hosted on GitHub Pages. It showcases information about me and my work as a software developer.
+Welcome to my personal portfolio website! This site showcases my journey as a software developer and the various technologies I work with.
 
-## Technologies Used
+## About Me
+I am a software developer passionate about creating efficient solutions to complex problems. My expertise spans multiple programming languages and database technologies.
+
+## Skills
+
+### Programming Languages
+- Apex
+- Java
+- PHP
+- C
+
+### Databases
+- MySQL
+- Microsoft SQL Server
+
+## Projects
+This portfolio includes various college projects that demonstrate my technical abilities and problem-solving skills. Visit the website to learn more about specific projects and implementations.
+
+## Technologies Used in This Website
 - HTML5
 - CSS3
+- GitHub Pages for hosting
 
-## Setup
-1. Clone this repository
-2. The website can be viewed by opening `index.html` in a web browser
-3. To deploy on GitHub Pages:
-   - Create a new repository named `<your-username>.github.io`
-   - Push these files to that repository
-   - Your website will be available at `https://<your-username>.github.io`
+## Visit My Portfolio
+You can view my portfolio at: [https://mahmutsalman.github.io](https://mahmutsalman.github.io)
+
+## Special Thanks
+Special thanks to SynthJob for inspiring this website!
